@@ -189,6 +189,10 @@ Run the same checks as CI with `scripts/verify.sh` (add `--integration`, `--buil
 
 ## Deployment
 
+### One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/OpenAthlete/)
+
 ### Self-hosting with Docker
 
 On any server with Docker and its Compose plugin:
